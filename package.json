@@ -1,0 +1,23 @@
+{
+  "name": "flower-pdf-server-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rchaser53/flower-pdf-server-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rchaser53/flower-pdf-server-playground/issues"
+  },
+  "homepage": "https://github.com/rchaser53/flower-pdf-server-playground#readme",
+  "devDependencies": {
+    "express": "^4.16.2"
+  }
+}
