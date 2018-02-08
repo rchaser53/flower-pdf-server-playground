@@ -21,7 +21,6 @@ const cdnServer = require('http').createServer(cdnApp)
 cdnApp.use('/cdn', express.static(path.join(__dirname, 'pdf'),
 {
   setHeaders(res){
-    console.log(2)
     res.setHeader('Access-Control-Allow-Origin', '*')
   }
 }
