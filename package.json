@@ -19,5 +19,8 @@
   "homepage": "https://github.com/rchaser53/flower-pdf-server-playground#readme",
   "devDependencies": {
     "express": "^4.16.2"
+  },
+  "dependencies": {
+    "parse5": "^4.0.0"
   }
 }
